@@ -1,7 +1,7 @@
 {
-	"name": "NHN-UniClipboard",
-	"version": "0.0.1",
-	"displayName": "uniclipboard",
+	"name": "com.sanukin39.uniclipboard",
+	"version": "0.0.2",
+	"displayName": "NHN-UniClipboard",
 	"unity": "2018.1",
 	"description": "Uni Clipboard",
 	"keywords": ["uniclipboard"],
