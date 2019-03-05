@@ -13,7 +13,7 @@
    {   
    
  		...
- 		"com.sanukin39.uniclipboard": "https://github.com/nhnpro/NHN-UniClipboard-UPM.git#0.0.1",
+ 		"com.sanukin39.uniclipboard": "https://github.com/nhnpro/NHN-UniClipboard-UPM.git#0.0.3",
  		...
  		
    }

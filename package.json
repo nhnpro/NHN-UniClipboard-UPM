@@ -1,6 +1,6 @@
 {
 	"name": "com.sanukin39.uniclipboard",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"displayName": "NHN-UniClipboard",
 	"unity": "2018.1",
 	"description": "Uni Clipboard",
@@ -10,6 +10,5 @@
 		"name":"sanukin39"
 	},
 	"dependencies": {
-		"com.sanukin39.uniclipboard": "https://github.com/nhnpro/NHN-UniClipboard-UPM.git#0.0.1"
 	}
 }
